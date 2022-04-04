@@ -1,0 +1,14 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+Username: 12345@admin.com
+Password: 12345
+
+USER LOGIN:
+
+Username: as2262011@gmail.com
+Password: 12345
+
+testuser@gmail.com
+12345
